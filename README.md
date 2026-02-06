@@ -13,7 +13,7 @@ Comfortable debugging simple issues and using AI tools to support development.
 
 ## 🛠️ Skills & Technologies
 
-### 💡 Core Skills        🎨 Frontend
+### 💡 Core Skills     ### 🎨 Frontend
 - Adaptability             - HTML  
 - Problem-Solving          - CSS  
 - Team Collaboration       - JavaScript  
