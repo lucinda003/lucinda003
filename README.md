@@ -106,6 +106,17 @@ Malabon City, Metro Manila
 
 ---
 
+### ⚡ JayChatbot (Local AI Assistant)
+
+**Role:** AI Engineer / Developer (AI-Assisted)  
+**Tech Stack:** Python, Streamlit, Meta Llama-3 (GGUF), Hugging Face, TensorFlow/Keras
+
+**Overview:**
+- **Local LLM Deployment:** Successfully deployed a locally hosted Large Language Model (**Meta Llama-3-8B**) optimized with **4-bit GGUF quantization** for efficient inference on consumer hardware (32GB RAM + GTX 1060).
+- **Custom AI Persona:** Engineered a custom system prompt to create a unique "JayBot" persona that communicates in casual Tagalog/Taglish, simulating a knowledgeable programmer friend.
+- **Interactive Interface:** Developed a responsive web-based chat application using **Streamlit**, featuring persistent session history, custom UI styling, and real-time inference monitoring.
+- **Multi-Model Integration:** Explored various AI domains including Computer Vision (MNIST Digit Recognizer) and NLP (Sentiment Analysis) before advancing to Generative AI.
+
 
 ## 📫 Let's Connect
 
