@@ -68,6 +68,7 @@ Malabon City, Metro Manila
 
 ---
 
+
 ## 🚀 Academic Project
 
 ### 📘 Structured School Form Management System (Capstone Project)
@@ -84,6 +85,8 @@ Malabon City, Metro Manila
 ---
 <img width="1208" height="641" alt="Image" src="https://github.com/user-attachments/assets/d3577f5d-cb62-452e-8c4c-6efce484b9fa" /> 
 <img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/0b97785c-9407-4f16-8764-e8e52efefc4e" /> 
+
+---
 
 
 ### 📘 Barangay 635 E-Services (WEBDEV)
