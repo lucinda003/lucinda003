@@ -1,5 +1,5 @@
 
-# 👋 Hi, I'm Willy Jay Gayagoy
+# 👋 Hi, 
 
 🎓 BS Information Technology Student  
 💻 Aspiring Full-Stack Web Developer  
@@ -7,6 +7,7 @@
 
 I enjoy building practical web applications and continuously improving my skills.  
 Currently focused on strengthening my frontend and backend development experience.
+Comfortable debugging simple issues and using AI tools to support development.
 
 ---
 
@@ -47,14 +48,24 @@ Currently focused on strengthening my frontend and backend development experienc
 ## 🎓 Education
 
 **Bachelor of Science in Information Technology**  
-Eulogio “Amang” Rodriguez Institute of Science and Technology  
-📅 2023 – Present  
-📍 Sampaloc, Manila  
+Eulogio “Amang” Rodriguez Institute of Science and Technology (EARIST)  
+Sampaloc, Manila, Philippines  
+2023 – 2026  
 
-**Senior High School**  
+**Bachelor of Science in Information Technology**  
+PHINMA – Saint Jude College Manila  
+Sampaloc, Manila, Philippines  
+2022 – 2023  
+
+**Secondary Education**  
 Doña Teodora Alonzo High School  
-📅 2016 – 2020  
-📍 Sta. Cruz, Manila  
+Sta. Cruz, Manila, Philippines  
+2016 – 2020  
+
+**Primary Education**  
+Bagong Lote Elementary School  
+Malabon City, Metro Manila  
+2010 – 2016 
 
 ---
 
