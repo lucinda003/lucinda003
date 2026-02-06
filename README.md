@@ -13,11 +13,12 @@ Comfortable debugging simple issues and using AI tools to support development.
 
 ## 🛠️ Skills & Technologies
 
-### 💡 Core Skills
-- Adaptability  
-- Problem-Solving  
-- Team Collaboration  
-- Willingness to Learn  
+### 💡 Core Skills        🎨 Frontend
+- Adaptability             - HTML  
+- Problem-Solving          - CSS  
+- Team Collaboration       - JavaScript  
+- Willingness to Learn     - ReactJS  
+                           - Tailwind CSS  
 
 ### 🎨 Frontend
 - HTML  
@@ -87,8 +88,9 @@ Malabon City, Metro Manila
 
 **Overview:**
 - Developed a web-based system for managing DepEd school forms (SF1–SF10)  
-- Designed and structured the database for students, grades, sections, and attendance  
-- Used Cursor AI for code assistance and debugging, then manually reviewed and refined outputs  
+- Designed the database structure for students, grades, sections, attendance, and school forms using MySQL.
+- Used AI tools (Cursor AI) to assist in code generation and debugging, while reviewing and adjusting the output based on project requirements. 
+- Performed basic testing and debugging to fix functional issues and improve system stability.
 
 ---
 
