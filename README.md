@@ -1,7 +1,5 @@
-## Hi there 👋
 
-
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Willy Jay Gayagoy
 
 🎓 BS Information Technology Student  
 💻 Aspiring Full-Stack Web Developer  
@@ -85,7 +83,7 @@ Doña Teodora Alonzo High School
 
 ## 📫 Let's Connect
 
-- GitHub: [your-github-link]  
-- Email: [your-email]  
+
+- Email: gayagoyw@gmail.com 
 
 > *Always learning. Always building.* 🚀
