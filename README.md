@@ -6,7 +6,7 @@
 📍 Manila, Philippines
 
 I enjoy building practical web applications and continuously improving my skills.  
-Currently focused on strengthening my frontend and backend development experience.
+Currently focused on strengthening my frontend and backend development experience.  
 Comfortable debugging simple issues and using AI tools to support development.
 
 ---
