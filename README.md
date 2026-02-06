@@ -13,12 +13,11 @@ Comfortable debugging simple issues and using AI tools to support development.
 
 ## 🛠️ Skills & Technologies
 
-### 💡 Core Skills     ### 🎨 Frontend
-- Adaptability             - HTML  
-- Problem-Solving          - CSS  
-- Team Collaboration       - JavaScript  
-- Willingness to Learn     - ReactJS  
-                           - Tailwind CSS  
+### 💡 Core Skills     
+- Adaptability            
+- Problem-Solving         
+- Team Collaboration      
+- Willingness to Learn     
 
 ### 🎨 Frontend
 - HTML  
