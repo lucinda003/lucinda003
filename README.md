@@ -91,7 +91,7 @@ Malabon City, Metro Manila
 
 ### 📘 Barangay 635 E-Services (WEBDEV)
 
-**Role:** Web Developer Tech
+**Role:** Web Developer Tech  
 **Tech Stack:** HTML5, CSS3, JavaScript, Bootstrap, jQuery
 
 **Overview:**
@@ -108,7 +108,7 @@ Malabon City, Metro Manila
 
 ### ⚡ JayChatbot (Local AI Assistant)
 
-**Role:** Developer (AI-Assisted)  
+**Role:** Developer (AI-Assisted)    
 **Tech Stack:** Python, Streamlit, Meta Llama-3 (GGUF), Hugging Face, TensorFlow/Keras
 
 **Overview:**
