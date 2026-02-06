@@ -92,8 +92,13 @@ Malabon City, Metro Manila
 - Performed basic testing and debugging to fix functional issues and improve system stability.
 
 ---
-![Image](https://github.com/user-attachments/assets/8fd75cd3-0ad5-412c-9664-c9feb2ff0e4b) 
-<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/0b97785c-9407-4f16-8764-e8e52efefc4e" />
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/0b97785c-9407-4f16-8764-e8e52efefc4e" /> 
+<img width="1917" height="1079" alt="Image" src="https://github.com/user-attachments/assets/713a2b25-9b5d-41dc-8fc7-584887295308" /> 
+<img width="1903" height="1075" alt="Image" src="https://github.com/user-attachments/assets/93c25852-32e9-4169-987c-842b9eda5e0e" /> 
+<img width="1905" height="1078" alt="Image" src="https://github.com/user-attachments/assets/a03861c7-eefc-46cc-9081-e18a4d0e0253" /> 
+<img width="1902" height="1079" alt="Image" src="https://github.com/user-attachments/assets/a52ed5f4-2c68-4122-908c-a890d9c16a0d" /> 
+<img width="1208" height="641" alt="Image" src="https://github.com/user-attachments/assets/1427fab0-0928-44e2-9777-e83f0d984032" /> 
+
 ## 📫 Let's Connect
 
 
