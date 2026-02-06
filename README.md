@@ -108,7 +108,7 @@ Malabon City, Metro Manila
 
 ### ⚡ JayChatbot (Local AI Assistant)
 
-**Role:** AI Engineer / Developer (AI-Assisted)  
+**Role:** Developer (AI-Assisted)  
 **Tech Stack:** Python, Streamlit, Meta Llama-3 (GGUF), Hugging Face, TensorFlow/Keras
 
 **Overview:**
@@ -117,6 +117,12 @@ Malabon City, Metro Manila
 - **Interactive Interface:** Developed a responsive web-based chat application using **Streamlit**, featuring persistent session history, custom UI styling, and real-time inference monitoring.
 - **Multi-Model Integration:** Explored various AI domains including Computer Vision (MNIST Digit Recognizer) and NLP (Sentiment Analysis) before advancing to Generative AI.
 
+---
+<img width="1902" height="1079" alt="Image" src="https://github.com/user-attachments/assets/72d7e366-cd6e-49f9-97f5-abd4e81bcc71" /> 
+<img width="1208" height="641" alt="Image" src="https://github.com/user-attachments/assets/f90a37a6-9bc5-4f3f-a730-254b8ea10ed3" />
+
+
+---
 
 ## 📫 Let's Connect
 
