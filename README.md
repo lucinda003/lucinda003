@@ -118,8 +118,8 @@ Malabon City, Metro Manila
 - **Multi-Model Integration:** Explored various AI domains including Computer Vision (MNIST Digit Recognizer) and NLP (Sentiment Analysis) before advancing to Generative AI.
 
 ---
-<img width="1902" height="1079" alt="Image" src="https://github.com/user-attachments/assets/72d7e366-cd6e-49f9-97f5-abd4e81bcc71" /> 
-<img width="1208" height="641" alt="Image" src="https://github.com/user-attachments/assets/f90a37a6-9bc5-4f3f-a730-254b8ea10ed3" />
+<img width="1918" height="880" alt="Image" src="https://github.com/user-attachments/assets/60a76561-fbdc-4781-9ec2-574972aaf903" /> 
+<img width="1175" height="916" alt="Image" src="https://github.com/user-attachments/assets/0ebcf6f1-b554-47ad-83bb-d7121f96e5c6" /> 
 
 
 ---
