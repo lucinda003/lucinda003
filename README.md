@@ -2,7 +2,6 @@
 # 👋 Hi, I'm **Willy Jay B. Gayagoy**
 
 🎓 BS Information Technology Student  
-💻 Aspiring Full-Stack Web Developer  
 📍 Manila, Philippines
 
 I enjoy building practical web applications and continuously improving my skills.  
