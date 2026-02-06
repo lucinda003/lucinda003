@@ -110,4 +110,4 @@ Malabon City, Metro Manila
 
 - Email: gayagoyw@gmail.com 
 
-> *“Using AI as a tool, not a shortcut.”.* 🚀
+> *“Still learning, still building, one commit at a time.”* 🚀
