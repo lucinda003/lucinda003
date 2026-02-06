@@ -92,7 +92,8 @@ Malabon City, Metro Manila
 - Performed basic testing and debugging to fix functional issues and improve system stability.
 
 ---
-![Image](https://github.com/user-attachments/assets/8d936aae-ea08-48fd-88e4-d585e17ebcab)
+![Image](https://github.com/user-attachments/assets/8fd75cd3-0ad5-412c-9664-c9feb2ff0e4b) 
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/0b97785c-9407-4f16-8764-e8e52efefc4e" />
 ## 📫 Let's Connect
 
 
