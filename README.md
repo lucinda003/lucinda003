@@ -1,5 +1,5 @@
 
-# 👋 Hi, I'm **Willy Jay B. Gayagoy**
+# Hi, I'm **Willy Jay B. Gayagoy**
 
 🎓 BS Information Technology Student  
 📍 Manila, Philippines
